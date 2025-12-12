@@ -1,0 +1,8 @@
+name: RescuePlugin
+version: 1.0.0
+main: digital.codespiresolutions.RescuePlugin
+api-version: '1.21'
+commands:
+  rescue:
+    description: Teleports the player to the rescue location for 32 Diamonds.
+    usage: /rescue [setup]
